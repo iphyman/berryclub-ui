@@ -1,4 +1,4 @@
-import React, { PureComponent } from "react";
+import { PureComponent } from "react";
 import { Switch, Route } from "react-router-dom";
 
 export default class Routes extends PureComponent {
